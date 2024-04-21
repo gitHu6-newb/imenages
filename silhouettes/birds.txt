@@ -1,2 +1,3 @@
 Asia expansion
-gaussian blur x&y @ 5.5 from #363 on
+fiddlig w gaussian blur up to 365,
+x&y @ 7.5 from #366 on
