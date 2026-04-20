@@ -5,7 +5,10 @@ after logging into quo, this is probably the page quo shows you. You can follow 
 
 
 
-2
+2 (https://github.com/gitHu6-newb/imenages/blob/sole/02.jpeg)
+
+
+3
 
 
 
