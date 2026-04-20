@@ -13,7 +13,43 @@ after logging into quo, this is probably the page quo shows you. You can follow 
 ![step4](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/04.jpeg)
 
 5
+![step5](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/5.jpeg)
+
+
+6
+![step6](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/06.jpeg)
+
+
+7
+![step7](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/07.jpeg)
+
+
+8
+![step8](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/08.jpeg)
+
+
+![step9](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/09.jpeg)
+
+
+10
+![step10](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/10.jpeg)
 
 
 
- 
+11
+![ste11](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/11.jpeg)
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
