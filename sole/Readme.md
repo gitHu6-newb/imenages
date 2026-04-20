@@ -27,7 +27,7 @@ after logging into quo, this is probably the page quo shows you. You can follow 
 8
 ![step8](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/08.jpeg)
 
-
+9
 ![step9](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/09.jpeg)
 
 
