@@ -13,7 +13,7 @@ after logging into quo, this is probably the page quo shows you. You can follow 
 ![step4](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/04.jpeg)
 
 5
-![step5](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/5.jpeg)
+![step5](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/05.jpeg)
 
 
 6
