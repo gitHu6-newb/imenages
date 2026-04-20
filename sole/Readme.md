@@ -42,9 +42,24 @@ after logging into quo, this is probably the page quo shows you. You can follow 
 
 
 12
+![step12](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/12.jpeg)
 
 
 
+13
+![step13](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/13.jpeg)
+
+
+14
+![step14](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/14.jpeg)
+
+
+15
+![step15](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/15.jpeg)
+
+
+16
+![step16](https://raw.githubusercontent.com/gitHu6-newb/imenages/refs/heads/main/sole/16.jpeg)
 
 
 
